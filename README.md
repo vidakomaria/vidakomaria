@@ -1,8 +1,6 @@
 - 👋 Hi, I’m **Vida Komaria**
-- 👀 I’m interested in Web Development, Frontend, Web Design
-- 🌱 I’m currently learning ReactJS
 
-[VIDA KOMARIA's PROFILE](https://vidakomaria.github.io/vida_komaria/)
+[VIDA KOMARIA's PROFILE]([https://vidakomaria.github.io/vida_komaria/](https://profile-git-main-kom11.vercel.app/))
 
 <!---
 vidakomaria/vidakomaria is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
